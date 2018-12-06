@@ -1,5 +1,5 @@
 {
-  "@context": "https://rawgit.com/valueflows/agent/master/context.jsonld",
+  "@context": "https://cdn.jsdelivr.net/gh/valueflows/agent/context.jsonld",
   "@id": "",
   "@type": "Person",
   "displayName": "",
